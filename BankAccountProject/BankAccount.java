@@ -6,7 +6,7 @@
       *(Taken from "Starting Out with Java - Early Objects
       *(Third Edition) by Tony Gaddis, 2008 by Pearson Educ.)
       *
-      *Programmed By: Karoline Foster, Dr. Anwar Ahmad (March 29, 2015)
+      *Programmed By: karofos, Dr. Anwar Ahmad (March 29, 2015)
  */
      
  public class BankAccount
